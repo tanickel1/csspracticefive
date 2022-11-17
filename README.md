@@ -1,0 +1,1 @@
+This project was designed to help demonstrate use of Descendant Combinators. 
